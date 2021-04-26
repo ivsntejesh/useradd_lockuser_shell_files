@@ -1,0 +1,1 @@
+This repository contains shell scripting files which helps in performing useradd command from a file dynamically. This also contains lockuser script which helps in locking the user for security reasins and performing the backup of the home directory.
